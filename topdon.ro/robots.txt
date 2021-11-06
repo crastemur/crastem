@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://topdon.ro/sitemaps/sitemap2.xml
